@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a game.
 - 🌱 I’m currently learning everything.
-- 🥅 2020 Goals: Get into GameDev.
+- 🥅 2021 Goals: Get into GameDev.
 
 ### Languages and Tools:
 
