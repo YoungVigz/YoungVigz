@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, and Student! 
 
-- 🔭 I’m currently working on a game.
+- 🔭 I’m currently working on a game. 
 - 🌱 I’m currently learning C# & Unity.
 - 🥅 2021 Goals: Get into GameDev.
 
