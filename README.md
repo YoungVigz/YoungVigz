@@ -1,4 +1,4 @@
-### 👋Hi there, I'm Gabriel - aka Vigz👋 
+### 👋Hi there, I'm Gabriel - aka Vigz👋  
 
 ## I'm a Web Developer, and Student! 
 
