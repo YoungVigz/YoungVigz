@@ -1,10 +1,10 @@
-### 👋Hi there, I'm Gabriel - aka Vigz👋  
+### 👋Hi there, I'm Gejbriel - aka Vigz👋  
 
-## I'm a Web Developer, and Student! 
+## Web Developer, and Student! 
   
-- 🔭 I’m currently working on a game. 
-- 🌱 I’m currently learning C# & Unity.
-- 🥅 2021 Goals: Get into GameDev.
+- 🔭 Currently working on .... 
+- 🌱 Currently learning ....
+- 🥅 2022 Goals: ....
   
 ### Languages and Tools:  
 
