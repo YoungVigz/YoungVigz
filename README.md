@@ -4,7 +4,7 @@ Hi 👋 My name is Gabriel
 Full-Stack Web Developer
 ------------------------
 
-Currently studing at University of Silesia
+Currently studying at the University of Silesia
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [ggcv.netlify.app](http://ggcv.netlify.app)
