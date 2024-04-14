@@ -9,9 +9,8 @@ Currently studying at the University of Silesia
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [ggcv.netlify.app](http://ggcv.netlify.app)
 * ✉️  You can contact me at [gabrielgaleza@gmail.com](mailto:gabrielgaleza@gmail.com)
-* 🚀  I'm currently working on [Biome Runner: Endless World](http://ggcv.netlify.app)
-* 🧠  I'm learning game dev
-* ⚡  Going to learn rust in the future
+* 🚀  I'm currently working on [Todo Haven](https://todo-haven.netlify.app)
+* ⚡  Going to learn go-lang, rust in the future
 
 ### Skills
 
