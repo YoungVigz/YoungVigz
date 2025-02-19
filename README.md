@@ -10,7 +10,7 @@ Currently studying at the University of Silesia
 * 🖥️  See my portfolio at [ggcv.netlify.app](http://ggcv.netlify.app)
 * ✉️  You can contact me at [gabrielgaleza@gmail.com](mailto:gabrielgaleza@gmail.com)
 * 🚀  I'm currently working on [Sub Manager](https://github.com/YoungVigz/sub-manager)
-* ⚡  Going to learn go-lang, rust in the future
+* ⚡  Going to learn go-lang in the future
 
 ### Skills
 
